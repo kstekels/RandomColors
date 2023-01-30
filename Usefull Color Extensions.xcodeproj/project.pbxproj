@@ -11,6 +11,7 @@
 		15C2E6572987A2E100545A35 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15C2E6562987A2E100545A35 /* ContentView.swift */; };
 		15C2E6592987A2E500545A35 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15C2E6582987A2E500545A35 /* Assets.xcassets */; };
 		15C2E65C2987A2E500545A35 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 15C2E65B2987A2E500545A35 /* Preview Assets.xcassets */; };
+		15C2E6632987A2FE00545A35 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 15C2E6622987A2FE00545A35 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		15C2E6562987A2E100545A35 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		15C2E6582987A2E500545A35 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		15C2E65B2987A2E500545A35 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		15C2E6622987A2FE00545A35 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				15C2E6542987A2E100545A35 /* Usefull_Color_ExtensionsApp.swift */,
 				15C2E6562987A2E100545A35 /* ContentView.swift */,
+				15C2E6622987A2FE00545A35 /* Extensions.swift */,
 				15C2E6582987A2E500545A35 /* Assets.xcassets */,
 				15C2E65A2987A2E500545A35 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				15C2E6572987A2E100545A35 /* ContentView.swift in Sources */,
+				15C2E6632987A2FE00545A35 /* Extensions.swift in Sources */,
 				15C2E6552987A2E100545A35 /* Usefull_Color_ExtensionsApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
